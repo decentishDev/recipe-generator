@@ -5,6 +5,7 @@ body {
     background-image: url(https://images.unsplash.com/photo-1670163402343-2e01bda4a53e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80);
   background-repeat: no-repeat;
   background-size: cover;
+    color: white;
 }
   
 header {
@@ -17,7 +18,7 @@ header h1 {
     margin: 0;
 }
 
-h1{
+h1 {
     margin-top: 0px;
     margin-bottom: 5px;
     color: rgb(255, 255, 255);
@@ -71,6 +72,7 @@ button {
     border: none;
     cursor: pointer;
     border-radius: 10px;
+    margin-bottom: 35px;
 }
 
     .recipe-section {
@@ -79,6 +81,7 @@ button {
   
     .recipe-section h2 {
         margin-top: 0;
+        margin-bottom: 10px;
     }
   
     .recipe-section p {
